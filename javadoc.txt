@@ -1,0 +1,30 @@
+
+ Method :Motor
+            
+[    
+,       Varsayılan kurucu fonksiyon
+,      
+]
+___________________________________________
+ Method :Motor
+            
+[    
+,      
+,       @param motorNo UUID olarak motor id
+,       @return motor instance
+,      
+]
+___________________________________________
+ Method :calistir
+            
+[
+,   calisiyor true yapılıyor
+,  
+]
+___________________________________________
+ Method :durdur
+            
+[    
+,       Motorun durdurulması 
+]
+___________________________________________

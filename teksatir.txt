@@ -1,0 +1,16 @@
+
+ Method :Motor
+            
+ false yapılıyor
+
+___________________________________________
+ Method :getMotorNo
+            
+ motor no getir
+
+___________________________________________
+ Method :toString
+            
+ durum belirlenmesi 
+
+___________________________________________
