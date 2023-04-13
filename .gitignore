@@ -1,8 +1,8 @@
 ### IntelliJ IDEA ###
-out/
+out/*
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+*.txt
 /src/domain/Motor.java/
 ### Eclipse ###
 .apt_generated

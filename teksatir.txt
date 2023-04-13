@@ -1,10 +1,10 @@
 
- Method :Motor
+ Method :Vehicle
             
  false yapılıyor
 
 ___________________________________________
- Method :getMotorNo
+ Method :getVehicleNo
             
  motor no getir
 

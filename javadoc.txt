@@ -1,30 +1,30 @@
 
- Method :Motor
+ Method :Vehicle
             
-[    
-,       Varsayılan kurucu fonksiyon
-,      
+[  
+,     Varsayılan kurucu fonksiyon
+,    
 ]
 ___________________________________________
- Method :Motor
+ Method :Vehicle
             
-[    
-,      
-,       @param motorNo UUID olarak motor id
-,       @return motor instance
-,      
+[  
+,    
+,     @param vehicleNo UUID olarak motor id
+,     @return motor instance
+,    
 ]
 ___________________________________________
- Method :calistir
+ Method :run
             
 [
-,   calisiyor true yapılıyor
-,  
+,  calisiyor true yapılıyor
+, 
 ]
 ___________________________________________
- Method :durdur
+ Method :stop
             
-[    
-,       Motorun durdurulması 
+[  
+,     Motorun durdurulması 
 ]
 ___________________________________________

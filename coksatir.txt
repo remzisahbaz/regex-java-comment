@@ -1,6 +1,6 @@
 
- Method :Motor
+ Method :Vehicle
             
-[         Başlangıçta false 
+[       Başlangıçta false 
 ]
 ___________________________________________
